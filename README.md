@@ -19,10 +19,10 @@ GitHub
 3. Встановити Playwright командою:
 npm.cmd install -D @playwright/test
 4. Встановити браузери командою:
-npx.cmd playwright install chromium
+npx.cmd playwright install
 5. Запустити тест командою:
 npx.cmd playwright test kopiyochka.spec.js --headed
 
-Результат виконання: 1 тест успішно пройшов (1 passed).
+Результат виконання: 3 тести успішно пройдені (3 passed).
 
-ChatGPT - використовувався для допомоги у створенні скрипта автоматизованого тестування та пояснення роботи з Playwright.
+Gemini - використовувався для допомоги у створенні скрипта автоматизованого тестування та пояснення роботи з Playwright.
